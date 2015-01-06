@@ -1,15 +1,15 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: A Livre Journal
+description: Writing about programming, self-improvement, literature, my life & hotdogs.
+meta_description: "Brennan's Journal. Programming, Self-improvement, Literature & Hotdogs."
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'brenjour.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'brenjour.github.io'
+author:         'Brennan Brown'
