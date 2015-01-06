@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Solecism
----
+title:  "Solecism"
+date:   2015-01-01 10:18:00
+categories: Jottings
 
 ### Year in Review
 
