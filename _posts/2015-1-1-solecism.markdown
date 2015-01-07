@@ -5,11 +5,11 @@ date:   2015-01-01 10:18:00
 categories: Jottings
 ---
 
+And another year has passed. I'm up near midnight with a cup of coffee writing out my first entry for 2015. It's been a wakeful year for me, I suppose. I started writing to you again in February after not writing for a long time. To be precise, I lasted a ten-day streak in late November of 2012 and didn't write any actual, quality entries since. I'm almost proud to say that I wrote at least twice every single month this year, though! Writing for almost all of February.
+
 ### Year in Review
 
 >**I think in terms of the day's resolutions, not the years'.** —Henry Moore
-
-And another year has passed. I'm up near midnight with a cup of coffee writing out my first entry for 2015. It's been a wakeful year for me, I suppose. I started writing to you again in February after not writing for a long time. To be precise, I lasted a ten-day streak in late November of 2012 and didn't write any actual, quality entries since. I'm almost proud to say that I wrote at least twice every single month this year, though! Writing for almost all of February.
 
 Of course, that's just my journal writing. I guess I could say I've done more, but I'm not really sure I've done too much.
 
