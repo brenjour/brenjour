@@ -5,9 +5,7 @@
 
 Hello! This is my first website I've ever made. More specifically, this is the repository of my personal blog. 
 
-The theme is based off of [Kasper](https://github.com/rosario/kasper), which is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper). 
-
-Powered by [Jekyll](http://jekyllrb.com).
+The theme is based off of [Kasper](https://github.com/rosario/kasper), which is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper). Powered by [Jekyll](http://jekyllrb.com).
 
 Feel free to fork, change, modify and re-use any part of my repository. Or feel free to use the original theme itself.
 
