@@ -8,12 +8,13 @@
 	display:inline;
 }
 
-.post-title {
+.post-title h1 {
 	text-align:center;
 }
 
-h1 {
+.read p{
 	text-align:center;
+	color:#696969;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
