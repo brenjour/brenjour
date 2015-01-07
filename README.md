@@ -65,6 +65,8 @@ Thanks to Ghost for originally making [Casper](https://github.com/TryGhost/Caspe
 
 Thanks to [Andy Taylor](https://andytaylor.me/) for the [reading time forumla](https://andytaylor.me/2013/04/07/reading-time/).
 
+https://github.com/aucor/jekyll-plugins
+
 ## Copyright & License
 
 Casper Copyright (C) 2013 Ghost Foundation - Released under the MIT License
