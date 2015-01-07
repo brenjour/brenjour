@@ -673,8 +673,18 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
     font-size: 2rem;
     line-height: 1.5em;
-    font-weight: 400;
+    font-weight: 300;
     font-family: "Merriweather", serif;
+    letter-spacing: 0.01rem;
+    color: rgba(255,255,255,0.8);
+}
+
+.page-description-2 {
+    margin: 0;
+    font-size: 2rem;
+    line-height: 1.5em;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
@@ -712,6 +722,12 @@ margin on the iframe, cause it breaks stuff. */
     -webkit-animation-delay: 0.1s;
     animation-delay: 0.1s;
 }
+
+.home-template .page-description-2 {
+    -webkit-animation: fade-in-down 0.9s;
+    animation: fade-in-down 0.9s;
+    -webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
 
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
@@ -1368,6 +1384,11 @@ body:not(.post-template) .post-title {
     }
 
     .page-description {
+        font-size: 1.8rem;
+        line-height: 1.5em;
+    }
+
+    .page-description-2 {
         font-size: 1.8rem;
         line-height: 1.5em;
     }
