@@ -41,11 +41,6 @@
 
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
-    <ul class="nav nav-tabs">
-  {% assign pages_list = site.weighted_pages %}
-  {% assign group = 'navigation' %}
-  {% include pages_list %}
-    </ul>
     {{ content }}
     <footer class="site-footer clearfix">
       <section class="copyright">
