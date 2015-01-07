@@ -3,7 +3,13 @@
 
 ## About
 
-The repository of my personal blog. Forked from Kasper. Powered by Jekyll.
+Hello! This is my first website I've ever made. More specifically, this is the repository of my personal blog. 
+
+The theme is based off of [Kasper](https://github.com/rosario/kasper), which is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper). 
+
+Powered by [Jekyll](http://jekyllrb.com).
+
+Feel free to fork, change, modify and re-use any part of my repository. Or feel free to use the original theme itself.
 
 ## To-Do
 
@@ -13,7 +19,7 @@ The repository of my personal blog. Forked from Kasper. Powered by Jekyll.
     * main.css
     * screen.css
   * Find a good colour palette
-  * Use Google Fontsa
+  * Use Google Fonts
   * Modify layouts
 * Migrate Tumblr Posts
 * Write additional pages
@@ -22,7 +28,7 @@ The repository of my personal blog. Forked from Kasper. Powered by Jekyll.
   * **Paragraph Introduction**
   * Make Archive Page
   * Add Social Media Icons
-  * Alias / Make better links for posts
+  * Make better links for posts
   * Ordinal?
   * Font Awesome?
   * Drafts?
@@ -40,47 +46,31 @@ The repository of my personal blog. Forked from Kasper. Powered by Jekyll.
 * About
 * Aileron
   * Edex
-    * etc.
   * Kalend
+  * Templates
 * Rules
 * Entires
 * Projects
 * 404
 * Contact
 
-## Credits
+## Thanks 
+
+The foundation of this theme is based off of Kasper, which I give thanks and credit to [Rosario Rascuna](https://github.com/rosario) for porting.
+
+Work prior to that was done by the Ghost team. 
+
+I've also added few things specific to Jekyll and some minor style changes.
 
 * Jekyll
+* Ghost
 * Kasper
 * Plug-ins
 
-***
-
-# Old readme.md :: Kasper
-
-This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
-
-## How to use it
-
-Simply clone this repository, and then run `jekyll serve` inside the directory.
-
-Kasper theme includes:
-
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
-
-## Thanks 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
-
 ## Copyright & License
 
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
+Casper Copyright (C) 2013 Ghost Foundation - Released under the MIT License
+Kasper Copyright (C) 2014 Rosario Rascuna - Released under the MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -88,3 +78,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+
+
