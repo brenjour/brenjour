@@ -3,15 +3,18 @@
 
 ## About
 
-The repository of my personal blog. Forked from Kasper.
+The repository of my personal blog. Forked from Kasper. Powered by Jekyll.
 
 ## To-Do
 
-* Write out the readme.md
-* Customize
-  * Layout
-  * Colours
-  * Typefaces
+* Finish readme.md
+* Modify
+  * CSS
+    * main.css
+    * screen.css
+  * Find a good colour palette
+  * Use Google Fontsa
+  * Modify layouts
 * Migrate Tumblr Posts
 * Write additional pages
 * Plug-ins
@@ -29,12 +32,16 @@ The repository of my personal blog. Forked from Kasper.
 * Configure RSS
 * Photos
   * Gallery Tag
-
 * Configure Atom to post locally
+* Change Disqus to a different commenting system (non-properitary) 
 
-### Pages
+### Pages needed to be written
 
 * About
+* Aileron
+  * Edex
+    * etc.
+  * Kalend
 * Rules
 * Entires
 * Projects
@@ -66,12 +73,6 @@ Kasper theme includes:
 * Code Syntax Highlight
 * Author's profile with picture
 * Disqus comments
-
-## Screenshots
-
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
-
 
 ## Thanks 
 Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
