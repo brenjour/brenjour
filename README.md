@@ -3,9 +3,34 @@
 
 ## About
 
+The repository of my personal blog. Forked from Kasper.
+
 ## To-Do
 
 * Write out the readme.md
+* Customize
+  * Layout
+  * Colours
+  * Typefaces
+* Migrate Tumblr Posts
+* Write additional pages
+* Plug-ins
+  * Incorperate Disqus and Google Analytics
+  * **Paragraph Introduction**
+  * Make Archive Page
+  * Add Social Media Icons
+  * Alias / Make better links for posts
+  * Ordinal?
+  * Font Awesome?
+  * Drafts?
+  * Embed Tweets
+  * Other Plug-ins...
+* Categories + Tags
+* Configure RSS
+* Photos
+  * Gallery Tag
+
+* Configure Atom to post locally
 
 ### Pages
 
@@ -17,6 +42,10 @@
 * Contact
 
 ## Credits
+
+* Jekyll
+* Kasper
+* Plug-ins
 
 ***
 
