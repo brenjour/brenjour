@@ -1,4 +1,26 @@
-# Kasper
+
+# Brenjour
+
+## About
+
+## To-Do
+
+* Write out the readme.md
+
+### Pages
+
+* About
+* Rules
+* Entires
+* Projects
+* 404
+* Contact
+
+## Credits
+
+***
+
+# Old readme.md :: Kasper
 
 This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
 Feel free to fork, change, modify and re-use it.
