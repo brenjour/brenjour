@@ -1,6 +1,6 @@
 name: A Livre Journal
-description: Writing about programming, self-improvement, literature, my life & hotdogs.
-meta_description: "Brennan's Journal. Programming, Self-improvement, Literature & Hotdogs."
+description: Writing about programming, French, self-improvement, literature, my life & hotdogs.
+meta_description: "A Personal Journal about learning by Brennan Brown."
 
 markdown: redcarpet
 highlighter: pygments
