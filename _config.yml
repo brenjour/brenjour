@@ -13,3 +13,7 @@ google_analytics: 'UA-54919711-1'
 # Details for the RSS feed generator
 url:            'brenjour.github.io'
 author:         'Brennan Brown'
+
+# My Settings
+
+permalink: /:title
