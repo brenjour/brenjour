@@ -2,7 +2,7 @@
 layout: post
 title:  "Solecism"
 date:   2015-01-01 10:18:00
-categories: Jottings
+categories: Life
 ---
 
 And another year has passed. I'm up near midnight with a cup of coffee writing out my first entry for 2015. It's been a wakeful year for me, I suppose. I started writing to you again in February after not writing for a long time. To be precise, I lasted a ten-day streak in late November of 2012 and didn't write any actual, quality entries since. I'm almost proud to say that I wrote at least twice every single month this year, though! Writing for almost all of February.
@@ -25,7 +25,7 @@ I'll be sure to add more tomorrow!
 
 This section of Jottings it probably the most difficult for me right now. I originally came up with the idea way back in October and still haven't fulfilled it. It's a ridiculously simple and unoriginal concept of writing down three things in your life that you're grateful for.
 
-To keep things simple for myself, I'll write out three permanent things as opposed to three in-the-moment things. 
+To keep things simple for myself, I'll write out three permanent things as opposed to three in-the-moment things.
 
 1. I was born, at all.
 2. I was born on planet Earth.
@@ -35,7 +35,7 @@ To keep things simple for myself, I'll write out three permanent things as oppos
 6. I was born in the 21st Century, which is a pretty arbitrary time-frame but long story short I was born during the greatest time ever for technology and knowledge. // Expand on this later.
 7. I was born in Canada, probably the best country in the world outside of Scandinavia currently.
 8. I was moved to Calgary at a young age, Canada's most thriving city. Hopefully with the present oil prices there will be a revolution of our economy.
-9. I was born with a roof over my head and have a lot of expensive devices. 
+9. I was born with a roof over my head and have a lot of expensive devices.
 
 ## Goals
 

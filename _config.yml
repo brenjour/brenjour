@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'brenjour.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-54919711-1'
 
 # Details for the RSS feed generator
 url:            'brenjour.github.io'
