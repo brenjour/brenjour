@@ -47,11 +47,17 @@ contact: 'contact/index.html'
             {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
         </section>
         <footer class="post-meta">
+<<<<<<< HEAD
             {% if post.categories.size > 0 %} 
+=======
+            {% endif %}
+            {% if post.categories.size > 0 %}
+>>>>>>> origin/master
                 {{ post.categories | array_to_sentence_string | prepend: 'On ' }} 
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
+<<<<<<< HEAD
             </time> 
             <script type="text/javascript">
                 google_ad_client = "ca-pub-3055500016021139";
@@ -63,6 +69,9 @@ contact: 'contact/index.html'
             <script type="text/javascript"
             src="//pagead2.googlesyndication.com/pagead/show_ads.js">
             </script>
+=======
+            </time>
+>>>>>>> origin/master
         </footer>
     </article>
 
