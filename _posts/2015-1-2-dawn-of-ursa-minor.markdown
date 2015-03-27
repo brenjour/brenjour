@@ -1,4 +1,9 @@
-# Dawn of Ursa Minor
+---
+layout: post
+title:  "Dawn of Ursa Minor"
+date:   2015-02-04
+categories: fiction
+---
 
 **The detritus of the forest had already begun to cool down in Nelson.** Autumn had bled throughout the coast, leaving a film of frost on the leaves of fallen trees. Branches the shade of Texas oil crude littered the trails; other clutter was left flailing aimlessly in the wind. The sky stung with darkness, still not having fully cleared. 
 

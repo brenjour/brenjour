@@ -1,6 +1,9 @@
-# The Library and the Stars
-by bk-Blayze, Mar 2, 2012, 12:12:22 PM
-
+---
+layout: post
+title:  "The Library and the Stars"
+date:   2015-02-26
+categories: fiction
+---
 
 **It was the oldest building in town.** The amount of people usually would contradict the lack of noise. It was silent as a mausoleum, yet not as morbid. There were novels, comics and dictionaries filling rows of elderly wooden shelves. Today seemed to be especially marked by a dreaded presence, however. The townspeople would rarely leave their homes. Not because of the uncommon rain of summer on that day. But because there had always been a feeling of unmoved tension that lurked in the North.
 
