@@ -2,7 +2,6 @@
 layout: default
 disqus: false
 archive: false
-weight: 2
 post_class: post-template
 ---
 
@@ -18,19 +17,7 @@ post_class: post-template
     <article class="post">
 
         <header class="post-header">
-            <div-align="center">
-                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <!-- Wide Ad -->
-                    <ins class="adsbygoogle"
-                         style="display:inline-block;width:728px;height:90px"
-                         data-ad-client="ca-pub-3055500016021139"
-                         data-ad-slot="7092874407"></ins>
-                    <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-            </div>
             <h1 class="post-title">{{ page.title }}</h1>
-            <p class="read">{{ page.content | number_of_words | divided_by:180}} Minute Read</p>
             <section class="post-meta">                
                 <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
                 {% if page.categories.size > 0 %} 
@@ -85,7 +72,7 @@ post_class: post-template
                     <h4> {{ site.author }} </h4>
                     <!-- Author Bio -->
                     <p> 
-                        Brennan Brown is an eighteen year-old aspiring information designer and developer. When he isn't coding silly things, he's making video game soundtracks or experimenting with film photography.
+                        Here goes the author description. You might want to place some links too in here
                     </p>
                 </section>                
             {% endif %}
